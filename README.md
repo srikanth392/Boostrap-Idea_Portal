@@ -4,6 +4,7 @@ DashBoard:
 
 ![image](https://user-images.githubusercontent.com/113426534/195985750-d9fc9f17-1359-4f16-91b2-2986b70ad2a0.png)
 Add Idea:
+
 ![image](https://user-images.githubusercontent.com/113426534/195985757-893b7f55-6fa8-43ab-aa77-5185a32698e2.png)
 My Ideas:
 ![image](https://user-images.githubusercontent.com/113426534/195985772-6f4ec6cf-4755-497e-9ad9-95f77ec2097c.png)
